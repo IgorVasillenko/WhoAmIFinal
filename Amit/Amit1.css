@@ -12,7 +12,10 @@ body{
 
 .mydiv{
     text-align: center;
-    
+}
+a {
+  text-decoration: none;
+}
     
 }
   #picture {
@@ -44,7 +47,6 @@ p{
     margin-left:15%;
     margin-right:15%;
     border-color:rgb(0, 0, 0);
-    display: inline;;
     font-family:"Courier New";
   }
   .menu ul li{

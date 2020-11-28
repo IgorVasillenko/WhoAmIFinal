@@ -1,0 +1,56 @@
+body {
+    background-color: #8085a7;
+}
+a {
+    text-decoration:none;
+}
+.logo{
+    float: center;
+    margin-top:-8px;
+    margin-right:20px;
+}
+#home {
+    color:rgb(0, 0, 0);
+}
+.menu{
+    margin-bottom: 50px;
+}
+   
+.menu ul{
+    text-align: center; 
+    border-style:ridge;
+    width:70%;
+    margin-left:15%;
+    margin-right:15%;
+    border-color:rgb(0, 0, 0);
+    font-family:"Courier New";
+}
+.menu ul li{
+    display: inline-block;
+    list-style:inline;
+    margin: 0 30px;
+    color:black;
+    cursor:pointer;
+} 
+div.gallery {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:60px ;
+    text-align: center;
+    border: 2px ridge black;
+    width: 25%;
+}
+  
+div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+div.desc {
+    padding: 15px;
+    text-align: center;
+  }

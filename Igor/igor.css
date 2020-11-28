@@ -7,7 +7,6 @@ width:70%;
 margin-left:15%;
 margin-right:15%;
 border-color:rgb(0, 0, 0);
-display: inline;;
 font-family:"Courier New";
 
 }
@@ -17,7 +16,7 @@ list-style:inline;
 margin: 0 30px;
 color:black;
 cursor:pointer;
-                        } 
+} 
 
 .logo{
   float: center;
@@ -49,7 +48,9 @@ main {
   float:right;
   margin-right: 50px;
   margin-bottom: 30px;
+  border-style: ridge;
 }
+
 h1 {
   text-decoration: underline;
   font-family:cursive;
